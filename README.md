@@ -7,11 +7,12 @@ I wanted to see how things like average player height, weight, vertical and othe
 
 I also wanted to expand my data science skill-set. I gained experience in the following areas while working on this project:
     [Reading data from SQLite database]
-    [Creating and reading from large nested dicitionaries using loops]
+    [Creating and reading from large nested dictionaries using loops]
     [Plotting large datasets]
     [Handling errors in the case of missing data points]
     [Structuring my code in a logical manner using OOP]
-    [Writing data]
+    [Writing data to JSON file]
+    [Reading data from JSON file]
     
 There are two python files attached
     [collect_db_data.py: Reads relevant data from sqlite database, organizes it, and puts it into a json file]
