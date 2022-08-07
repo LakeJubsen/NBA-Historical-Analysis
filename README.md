@@ -5,7 +5,7 @@ the technical and physical skills of players have increased substantially as a r
 
 I wanted to see how things like average player height, weight, vertical and other physical attributes has changed over time. The database attached (basketball.sqlite) has combine information on nearly every athlete since the 80's (although the data gets sparse as you go farther back in time). Additionally, I want to explore how the flow and style of games have evolved over time (points in the paint vs 3s vs mid range jumpers, points per minute, assists per minute, points per game).
 
-I also wanted to expand my data science skill-set. I gained experience in the following areas while working on this project:
+I gained experience in the following areas while working on this project:
     [Reading data from SQLite database]
     [Creating and reading from large nested dictionaries using loops]
     [Plotting large datasets]
